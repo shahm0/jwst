@@ -1986,9 +1986,7 @@ refpix
 residual_fringe
 ---------------
 
-- First implementation of step. Added third party package (BayesicFitting) to setup.cfg [#6211]
-
-- Fixed suffix defined in spec [#6347]
+- First implementation of step. Added third party package (BayesicFitting) to setup.cfg [#6211] 
 
 set_telescope_pointing
 ----------------------
